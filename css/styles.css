@@ -106,6 +106,9 @@ color: #2E2F42;
 .team {
     background-color: #f4f4fd;
 }
+.card {
+    background-color: #FFFFFF
+}
 .team-title {
     color: #2E2F42;
     text-align: center;
@@ -131,3 +134,42 @@ text-align: center;
     color: #434455;
 }
 
+.portfolio {
+    background-color: #FFFFFF;
+}
+.portfolio-title {
+    color: #2E2F42;
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+.portfolio-item {
+    color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.portfolio-list {
+    color: #434455;
+            font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.302em;
+}
+.footer {
+    background: #2E2F42;
+}
+.logo-2 {
+    color: #F4F4FD;
+}
+.footer-list {
+    color: #F4F4FD;
+            font-size: 16px;
+           font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
